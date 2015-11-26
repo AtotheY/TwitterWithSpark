@@ -1,0 +1,51 @@
+<component name="libraryTable">
+  <library name="io.sphere.jvmsdk:scala-sdk_2.10:1.0.0-M1" type="repository">
+    <properties maven-id="io.sphere.jvmsdk:scala-sdk_2.10:1.0.0-M1" />
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/io/sphere/jvmsdk/scala-sdk_2.10/1.0.0-M1/scala-sdk_2.10-1.0.0-M1.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/scala-lang/scala-library/2.10.4/scala-library-2.10.4.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/io/sphere/jvmsdk/java-sdk_2.10/1.0.0-M1/java-sdk_2.10-1.0.0-M1.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/io/sphere/jvmsdk/products/1.0.0-M1/products-1.0.0-M1.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/io/sphere/jvmsdk/product-types/1.0.0-M1/product-types-1.0.0-M1.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/io/sphere/jvmsdk/queries/1.0.0-M1/queries-1.0.0-M1.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/io/sphere/jvmsdk/common/1.0.0-M1/common-1.0.0-M1.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/ch/qos/logback/logback-classic/1.1.2/logback-classic-1.1.2.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/ch/qos/logback/logback-core/1.1.2/logback-core-1.1.2.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/slf4j/slf4j-api/1.7.6/slf4j-api-1.7.6.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/com/ning/async-http-client/1.8.7/async-http-client-1.8.7.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/io/netty/netty/3.9.0.Final/netty-3.9.0.Final.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/com/google/guava/guava/17.0/guava-17.0.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/com/google/code/findbugs/jsr305/2.0.3/jsr305-2.0.3.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/joda-time/joda-time/2.3/joda-time-2.3.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/joda/joda-convert/1.6/joda-convert-1.6.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/com/fasterxml/jackson/core/jackson-annotations/2.4.1/jackson-annotations-2.4.1.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/com/fasterxml/jackson/core/jackson-core/2.4.1.1/jackson-core-2.4.1.1.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/com/fasterxml/jackson/core/jackson-databind/2.4.1.3/jackson-databind-2.4.1.3.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/com/fasterxml/jackson/module/jackson-module-parameter-names/2.4.1/jackson-module-parameter-names-2.4.1.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/net/jcip/jcip-annotations/1.0/jcip-annotations-1.0.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/com/typesafe/config/1.2.0/config-1.2.0.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/com/neovisionaries/nv-i18n/1.12/nv-i18n-1.12.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/apache/commons/commons-lang3/3.3.2/commons-lang3-3.3.2.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/com/github/slugify/slugify/2.1.2/slugify-2.1.2.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/zapodot/jackson-databind-java-optional/2.4.1/jackson-databind-java-optional-2.4.1.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/io/sphere/jvmsdk/tax-categories/1.0.0-M1/tax-categories-1.0.0-M1.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/io/sphere/jvmsdk/categories/1.0.0-M1/categories-1.0.0-M1.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/io/sphere/jvmsdk/javaintegrationtestlib_2.10/1.0.0-M1/javaintegrationtestlib_2.10-1.0.0-M1.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/io/sphere/jvmsdk/java-client/1.0.0-M1/java-client-1.0.0-M1.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/easytesting/fest-assert/1.4/fest-assert-1.4.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/easytesting/fest-util/1.1.6/fest-util-1.1.6.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/junit/junit/4.11/junit-4.11.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/hamcrest/hamcrest-core/1.3/hamcrest-core-1.3.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/com/novocode/junit-interface/0.10/junit-interface-0.10.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/junit/junit-dep/4.10/junit-dep-4.10.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/scala-tools/testing/test-interface/0.5/test-interface-0.5.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/scalatest/scalatest_2.10/2.1.3/scalatest_2.10-2.1.3.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/scala-lang/scala-reflect/2.10.3/scala-reflect-2.10.3.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/io/sphere/jvmsdk/customer-groups/1.0.0-M1/customer-groups-1.0.0-M1.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/io/sphere/jvmsdk/channels/1.0.0-M1/channels-1.0.0-M1.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/io/sphere/jvmsdk/scala-client_2.10/1.0.0-M1/scala-client_2.10-1.0.0-M1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
