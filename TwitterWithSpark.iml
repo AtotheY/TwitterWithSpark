@@ -10,5 +10,7 @@
     <orderEntry type="library" name="scala-sdk-2.10.5" level="project" />
     <orderEntry type="library" name="org.apache.spark:spark-streaming-twitter_2.10:1.0.0" level="project" />
     <orderEntry type="library" name="org.apache.spark:spark-core_2.10:1.0.0" level="project" />
+    <orderEntry type="library" name="com.google.code.gson:gson:1.5" level="project" />
+    <orderEntry type="library" name="org.twitter4j:twitter4j-appengine:2.2.4" level="project" />
   </component>
 </module>
